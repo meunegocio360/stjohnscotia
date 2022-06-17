@@ -3,10 +3,10 @@
 ## Action
 
 ### URL
-LinkBehaviour_42758BE4_6E90_2FC9_41D0_1243727DFA62.source = https://www.instagram.com/meunegocioweb360/
 LinkBehaviour_4742EEB3_6EF0_284F_416B_38B243680DFD.source = https://www.instagram.com/meunegocioweb360/
-LinkBehaviour_445D0CB1_6EF0_E84B_41C6_A446895AACC5.source = https://www.stjohns-brazil.com/
+LinkBehaviour_42758BE4_6E90_2FC9_41D0_1243727DFA62.source = https://www.instagram.com/meunegocioweb360/
 LinkBehaviour_42755BE4_6E90_2FC9_41DA_F047BB11CB50.source = https://www.stjohns-brazil.com/
+LinkBehaviour_445D0CB1_6EF0_E84B_41C6_A446895AACC5.source = https://www.stjohns-brazil.com/
 
 ## Hotspot
 
@@ -25,7 +25,7 @@ HotspotPanoramaOverlayArea_79DEA7ED_6DF0_27DB_41C1_470946E8F853.toolTip = CLIQUE
 ## Media
 
 ### Audio
-audiores_5FBEE5BF_6EB0_3BB8_41B4_2DA248C2D281.mp3Url = media/audio_5F0ECA32_6EB0_2848_41D5_EDE3DFC3F2BD_pt.mp3
+audiores_56B0658D_6DB0_585B_41C2_C68A717F5852.mp3Url = media/audio_562ECD47_6DB0_28D7_41D7_2676938D7BEB_pt.mp3
 
 ### Title
 panorama_7CCA34D4_6923_A631_41C4_27BDB0F776A7.label = ACESSO
